@@ -33,15 +33,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLeles&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLeles&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreLeles&theme=github-dark" alt="streak" />
+  <img src="https://img.shields.io/github/followers/AndreLeles?label=Followers&style=for-the-badge&logo=github&color=0e75b6&labelColor=1c1c1c" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AndreLeles?label=Stars&style=for-the-badge&logo=github&color=0e75b6&labelColor=1c1c1c" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=AndreLeles&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
 ---
