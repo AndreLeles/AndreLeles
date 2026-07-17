@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o André 👋</h1>
 
 <p align="center">
-  <b>DevOps / Infrastructure Engineer</b> · AWS · Serverless · Infrastructure as Code
+  <b>DevOps / Infrastructure Engineer</b>
 </p>
 
 <p align="center">
